@@ -1,0 +1,8 @@
+D:\TestCode\MSMQServer\RemotingServerHost\bin\Debug\RemotingServerHost.exe.config
+D:\TestCode\MSMQServer\RemotingServerHost\bin\Debug\RemotingServerHost.exe
+D:\TestCode\MSMQServer\RemotingServerHost\bin\Debug\RemotingServerHost.pdb
+D:\TestCode\MSMQServer\RemotingServerHost\bin\Debug\RemotingObject.dll
+D:\TestCode\MSMQServer\RemotingServerHost\bin\Debug\RemotingObject.pdb
+D:\TestCode\MSMQServer\RemotingServerHost\obj\Debug\RemotingServerHost.csprojResolveAssemblyReference.cache
+D:\TestCode\MSMQServer\RemotingServerHost\obj\Debug\RemotingServerHost.exe
+D:\TestCode\MSMQServer\RemotingServerHost\obj\Debug\RemotingServerHost.pdb

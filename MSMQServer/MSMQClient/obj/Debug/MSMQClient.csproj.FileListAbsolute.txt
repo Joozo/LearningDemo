@@ -1,0 +1,5 @@
+D:\TestCode\MSMQServer\MSMQClient\bin\Debug\MSMQClient.exe.config
+D:\TestCode\MSMQServer\MSMQClient\bin\Debug\MSMQClient.exe
+D:\TestCode\MSMQServer\MSMQClient\bin\Debug\MSMQClient.pdb
+D:\TestCode\MSMQServer\MSMQClient\obj\Debug\MSMQClient.exe
+D:\TestCode\MSMQServer\MSMQClient\obj\Debug\MSMQClient.pdb

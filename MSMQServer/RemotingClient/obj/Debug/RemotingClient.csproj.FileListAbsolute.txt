@@ -1,0 +1,7 @@
+D:\TestCode\MSMQServer\RemotingClient\bin\Debug\RemotingClient.exe.config
+D:\TestCode\MSMQServer\RemotingClient\bin\Debug\RemotingClient.exe
+D:\TestCode\MSMQServer\RemotingClient\bin\Debug\RemotingClient.pdb
+D:\TestCode\MSMQServer\RemotingClient\bin\Debug\RemotingObject.dll
+D:\TestCode\MSMQServer\RemotingClient\bin\Debug\RemotingObject.pdb
+D:\TestCode\MSMQServer\RemotingClient\obj\Debug\RemotingClient.exe
+D:\TestCode\MSMQServer\RemotingClient\obj\Debug\RemotingClient.pdb

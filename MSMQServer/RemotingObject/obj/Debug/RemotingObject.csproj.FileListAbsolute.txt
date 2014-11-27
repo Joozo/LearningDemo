@@ -1,0 +1,5 @@
+D:\TestCode\MSMQServer\RemotingObject\bin\Debug\RemotingObject.dll
+D:\TestCode\MSMQServer\RemotingObject\bin\Debug\RemotingObject.pdb
+D:\TestCode\MSMQServer\RemotingObject\obj\Debug\RemotingObject.csprojResolveAssemblyReference.cache
+D:\TestCode\MSMQServer\RemotingObject\obj\Debug\RemotingObject.dll
+D:\TestCode\MSMQServer\RemotingObject\obj\Debug\RemotingObject.pdb

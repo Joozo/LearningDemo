@@ -1,0 +1,3 @@
+D:\TestCode\FirstWCFApp\Hosting\bin\Debug\Hosting.exe
+D:\TestCode\FirstWCFApp\Hosting\bin\Debug\Contract.dll
+D:\TestCode\FirstWCFApp\Hosting\bin\Debug\Services.dll
