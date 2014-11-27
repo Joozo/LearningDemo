@@ -1,0 +1,6 @@
+D:\TestCode\SocketDemo\SocketService\bin\Debug\SocketService.exe.config
+D:\TestCode\SocketDemo\SocketService\bin\Debug\SocketService.exe
+D:\TestCode\SocketDemo\SocketService\bin\Debug\SocketService.pdb
+D:\TestCode\SocketDemo\SocketService\obj\Debug\SocketService.exe
+D:\TestCode\SocketDemo\SocketService\obj\Debug\SocketService.pdb
+D:\TestCode\SocketDemo\SocketService\obj\Debug\SocketService.csprojResolveAssemblyReference.cache
