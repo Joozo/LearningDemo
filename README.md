@@ -4,9 +4,9 @@ LearningDemo
 Learning .net  simple demo
 list:
 
- wcf demo
+ 2014-11-8  wcf demo
  
- MSMessageQueue demo
+ 2014-11-10 MSMessageQueue demo
  
- Socket demo
+ 2014-11-027 Socket demo
 
