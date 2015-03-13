@@ -1,0 +1,6 @@
+D:\TestCode\TestWcf\TestWcf\bin\TestWcf.dll.config
+D:\TestCode\TestWcf\TestWcf\bin\TestWcf.dll
+D:\TestCode\TestWcf\TestWcf\bin\TestWcf.pdb
+D:\TestCode\TestWcf\TestWcf\obj\Release\TestWcf.dll
+D:\TestCode\TestWcf\TestWcf\obj\Release\TestWcf.pdb
+D:\TestCode\TestWcf\TestWcf\obj\Release\TestWcf.csprojResolveAssemblyReference.cache

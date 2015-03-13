@@ -1,0 +1,8 @@
+D:\TestCode\TestWcf\WCFClient\bin\Debug\WCFClient.exe.config
+D:\TestCode\TestWcf\WCFClient\bin\Debug\WCFClient.exe
+D:\TestCode\TestWcf\WCFClient\bin\Debug\WCFClient.pdb
+D:\TestCode\TestWcf\WCFClient\bin\Debug\TestWcf.dll
+D:\TestCode\TestWcf\WCFClient\bin\Debug\TestWcf.pdb
+D:\TestCode\TestWcf\WCFClient\obj\Debug\WCFClient.csprojResolveAssemblyReference.cache
+D:\TestCode\TestWcf\WCFClient\obj\Debug\WCFClient.exe
+D:\TestCode\TestWcf\WCFClient\obj\Debug\WCFClient.pdb
