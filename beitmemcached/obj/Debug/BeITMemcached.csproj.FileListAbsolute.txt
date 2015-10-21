@@ -1,0 +1,6 @@
+D:\Git\beitmemcached\bin\Debug\BeITMemcached.exe.config
+D:\Git\beitmemcached\bin\Debug\BeITMemcached.exe
+D:\Git\beitmemcached\bin\Debug\BeITMemcached.pdb
+D:\Git\beitmemcached\obj\Debug\BeITMemcached.csprojResolveAssemblyReference.cache
+D:\Git\beitmemcached\obj\Debug\BeITMemcached.exe
+D:\Git\beitmemcached\obj\Debug\BeITMemcached.pdb

@@ -1,0 +1,11 @@
+D:\Git\beitmemcached\Demo\bin\Debug\Demo.exe.config
+D:\Git\beitmemcached\Demo\bin\Debug\Demo.exe
+D:\Git\beitmemcached\Demo\bin\Debug\Demo.pdb
+D:\Git\beitmemcached\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\Git\beitmemcached\Demo\obj\Debug\Demo.exe
+D:\Git\beitmemcached\Demo\obj\Debug\Demo.pdb
+D:\Git\beitmemcached\Demo\bin\Debug\BeITMemcached.exe
+D:\Git\beitmemcached\Demo\bin\Debug\BeITMemcached.pdb
+D:\Git\LearningDemo\beitmemcached\Demo\bin\Debug\Demo.exe.config
+D:\Git\LearningDemo\beitmemcached\Demo\obj\Debug\Demo.exe
+D:\Git\LearningDemo\beitmemcached\Demo\obj\Debug\Demo.pdb
