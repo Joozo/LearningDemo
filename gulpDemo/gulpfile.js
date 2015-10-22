@@ -1,3 +1,10 @@
+/**
+ * 
+ * npm install gulp-autoprefixer gulp-minify-css gulp-jshint gulp-concat gulp-uglify gulp-imagemin gulp-notify gulp-rename gulp-livereload gulp-cache del --save-dev
+ * 
+ * 
+*/
+
 // 引入 gulp及组件
 var gulp = require('gulp'),
     autoprefixer = require('gulp-autoprefixer'),
